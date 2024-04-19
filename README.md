@@ -1,3 +1,4 @@
+![logo](https://github.com/jannatulbakia/jannatulbakia/blob/main/github_banner.png)
 <h1 align="center">Hi... I'm Jannatul Bakia</h1>
 <h3 align="center">Studying Computer Science and Engineering</h3>
 <img align="right" alt="coding" width="250" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
